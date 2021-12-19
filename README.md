@@ -6,7 +6,7 @@ na disciplina de business intelligence que ministro na faculdade Impacta de Tecn
 decidi utilizar este DW e desenvolver um projeto completo de data science.
 
 *Fonte dos Dados*
-https://www.kaggle.com/olistbr/brazilian-ecommerce
+https://www.kaggle.com/olistbr/brazilian-ecommerce /
 https://github.com/olist/work-at-olist-data
 
 Desta forma, a medida que for avançando no desenvolvimento irei commitando os avanços neste repositório.
