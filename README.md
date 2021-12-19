@@ -20,3 +20,5 @@ O projeto como um todo terá as seguintes fases:
 ## Desenvolvimento do Data Warehouse
 
 ### Modelagem Multidimensional
+
+![Diagrama]((https://github.com/andre-ds/olist_project/blob/main/dw_diagram.png))
