@@ -5,7 +5,11 @@ Inicialmente, o escopo deste projeto consistia unicamente no desenvolvimento de 
 na disciplina de business intelligence que ministro na faculdade Impacta de Tecnologia. Posteriormente,
 decidi utilizar este DW e desenvolver um projeto completo de data science.
 
-Desta forma, a medida que for avançando no desenvolvimento erei commitando os avanços neste repositório.
+*Fonte dos Dados*
+https://www.kaggle.com/olistbr/brazilian-ecommerce
+https://github.com/olist/work-at-olist-data
+
+Desta forma, a medida que for avançando no desenvolvimento irei commitando os avanços neste repositório.
 O projeto como um todo terá as seguintes fases:
 
 | Etapa | Descrição |
