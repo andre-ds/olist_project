@@ -21,4 +21,4 @@ O projeto como um todo terá as seguintes fases:
 
 ### Modelagem Multidimensional
 
-![Diagrama]((https://github.com/andre-ds/olist_project/blob/main/dw_diagram.png))
+![Diagrama](https://github.com/andre-ds/olist_project/blob/main/dw_diagram.png)
